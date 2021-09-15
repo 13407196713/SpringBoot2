@@ -14,7 +14,6 @@ import java.util.Collection;
 import java.util.List;
 
 @Controller
-//@RestController
 @RequestMapping("/products")
 public class ProductController {
 

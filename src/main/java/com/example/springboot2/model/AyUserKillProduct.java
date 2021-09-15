@@ -38,7 +38,6 @@ public class AyUserKillProduct implements Serializable {
     public Integer getProductId() {
         return productId;
     }
-
     public void setProductId(Integer productId) {
         this.productId = productId;
     }
@@ -46,7 +45,6 @@ public class AyUserKillProduct implements Serializable {
     public Integer getUserId() {
         return userId;
     }
-
     public void setUserId(Integer userId) {
         this.userId = userId;
     }
@@ -54,7 +52,6 @@ public class AyUserKillProduct implements Serializable {
     public Integer getState() {
         return state;
     }
-
     public void setState(Integer state) {
         this.state = state;
     }
@@ -62,7 +59,6 @@ public class AyUserKillProduct implements Serializable {
     public Date getCreateTime() {
         return createTime;
     }
-
     public void setCreateTime(Date createTime) {
         this.createTime = createTime;
     }
@@ -70,7 +66,6 @@ public class AyUserKillProduct implements Serializable {
     public Integer getId() {
         return id;
     }
-
     public void setId(Integer id) {
         this.id = id;
     }
